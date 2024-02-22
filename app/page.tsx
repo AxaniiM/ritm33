@@ -77,7 +77,7 @@ export default function Home() {
               </svg>
             </Link>
           </div>
-          <div className="flex flex-col items-center gap-4 mt-4 xl:mt-0">
+          <div className="flex flex-col items-center gap-4 mt-12">
             <CoworkersImage />
             <h2 className="text-[36px] lg:text-[40px] leading-[40px] lg:leading-[46px] mt-4 xl:mt-0">А мы, собственно, кто?</h2>
             <p className="text-center lg:w-[743px]">
